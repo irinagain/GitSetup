@@ -41,7 +41,7 @@ library(iglu)
 library(dplyr)
 
 # Enter path to data file
-mydata = read.csv("/Users/marymartin/Downloads/ExampleData5Subjects.csv")
+mydata = read.csv("")
 
 
 # Note about the iglu interpolation function CGMS2DayByDay:
